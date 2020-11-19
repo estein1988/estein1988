@@ -1,4 +1,10 @@
 ### 💻 👏 ⬇️    Hi there! Welcome to Elliott's GitHub!   ⬇️ 👏 💻 
+
+<span>
+<img alt="Mat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=estein1988&show_icons=true&hide_border=true&hide=stars&theme=plain"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estein1988&layout=compact&hide=html&hide_border=true&theme=plain" alt="elliottstein" />
+</span>
+
 <!--
 **estein1988/estein1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
