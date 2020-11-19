@@ -1,4 +1,5 @@
-### 💻 👏 ⬇️    Hi there! Welcome to Elliott's GitHub!   ⬇️ 👏 💻 
+<h2> 💻 👏 ⬇️    Welcome to Elliott's GitHub!   ⬇️ 👏 💻 </h2>
+
 
 <span>
 <img alt="Mat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=estein1988&show_icons=true&hide_border=true&hide=stars&theme=plain"/>
