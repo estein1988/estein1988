@@ -15,7 +15,7 @@ I'm a full-stack software engineer and a Minneapolis, Minnesota transplant livin
 
 * Main Street Valuations is intended to be a web-app that allows users to better track their finances. After entering a couple of years of past income statements, users can view their results through a UI-dashboard. The dashboard comes with important metrics such as revenue/expenses/profit, but also with graphs and a table that shows their income statements. There is also a valuation metric given to the business owner, and how much the business may fetch on the open market. 2020 has been a difficult year for the majority of small business owners, so I hope this gives you a better idea of some areas you can save money or grow your business! 
 
-<h3> Lanaguages and Frameworks </h3>
+<h3> Languages and Frameworks </h3>
 
 * Fluent, but always still growing with:<br></br> 
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="45" height="45"/>&nbsp; &nbsp;
