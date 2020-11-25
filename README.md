@@ -1,11 +1,11 @@
 <h2> 💻 👏 ⬇️    Welcome to Elliott's GitHub!   ⬇️ 👏 💻 </h2>
-I'm a full-stack software engineer and a Minneapolis, Minnesota transplant living in Colorado. I have 10+ year's experience in corporate land management, where I oversaw mineral rights throughout the United States, Canada and Gulf of Mexico. I enjoy bringing these past skillsets through code by applying my work to data-driven projects. When I'm not figuring out how to make things work on my computer I you can find me in the mountains with my Australian Shepard 🦮 🗻, growing vegatables in my garden 🌶 🥦, or managing one of my many fantasy football teams 🏈. 
+I'm a full-stack software engineer living in the Denver area since 2010. I have 10+ year's experience in land management, where I oversaw mineral rights throughout the United States, Canada and Gulf of Mexico. I enjoy bringing these past skillsets through code by applying my work to data-driven projects. When I'm not trying to figure out how to make things work on my computer you can find me in the mountains with my Australian Shepard 🦮 🗻, growing vegatables in my garden 🌶 🥦, or managing one of my many fantasy football teams 🏈. 
 
-<h3> A brief intro on some of my work </h3>
+<h3> A brief intro on some of my work: </h3>
 
 **710 Home Split** - [Hosted Site](https://home-split-7-10.firebaseapp.com/login) | [Frontend](https://github.com/estein1988/710-home-fe) | [Backend](https://github.com/estein1988/710_home_split_be) | [Demo](https://www.youtube.com/watch?v=ijFS5tFKtY4)
 
-* Home prices in Denver are **expensive**. In 2020, the year of the pandemic, which brought on many economic consequences not seen since the 30s, home prices have *increased* 12%. 7-10 Home split allows users to create a profile with their budget, hobbies, interests and lease-end date in-mind, as well as browse live real estate listings.
+* Home prices in Denver are **expensive**. The pandemic has brought on many economic consequences, none more surprising than it *increasing* home prices. 7-10 Home split allows users to create a profile with their budget, hobbies, interests and lease-end date in-mind, as well as browse live real estate listings. I hope it can connect people to find someone to buy a home with.
 
 **OpenCountries** - [Hosted Site](https://open-countries.firebaseapp.com/) | [Frontend](https://github.com/estein1988/covid-travel-fe) | [Backend](https://github.com/estein1988/covid_travel_be) | [Demo](https://www.youtube.com/watch?v=fEkAa672bLw)
 
@@ -13,11 +13,11 @@ I'm a full-stack software engineer and a Minneapolis, Minnesota transplant livin
 
 **Main Street Valuations** - [Hosted Site](https://main-street-valuation.firebaseapp.com/) | [Frontend](https://github.com/estein1988/main_street_frontend) | [Backend](https://github.com/estein1988/covid_travel_be) | [Demo](https://www.youtube.com/watch?v=bZAjlKbOnCk)
 
-* Main Street Valuations is intended to be a web-app that allows users to better track their finances. After entering a couple of years of past income statements, users can view their results through a UI-dashboard.
+* Main Street Valuations is intended to be a web-app that allows users to better track their finances. After entering a couple of years of past income statements, users can view their results through a UI-dashboard and determine ways to save money.
 
 <h3> Languages and Frameworks </h3>
 
-* Fluent, but always still growing with:<br></br> 
+* Fluent, but always learning:<br></br> 
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="45" height="45"/>&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/396px-Ruby_logo.svg.png" width="45" height="45"/>&nbsp; &nbsp;
 <img src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png" width="45" height="45"/>&nbsp; &nbsp;
@@ -29,8 +29,8 @@ I'm a full-stack software engineer and a Minneapolis, Minnesota transplant livin
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="45" height="45"/>&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" width="45" height="45"/>&nbsp; &nbsp;
 
-* Currently Working On:<br></br>
-<img src="https://miro.medium.com/max/3840/1*QDQvlCg420lzRElCK4AYhw.png" width="45" height="45"/>&nbsp; &nbsp;
+* Currently growing with:<br></br>
+<img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="45" height="45"/>&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="45" height="45"/>&nbsp; &nbsp;
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="45" height="45"/>&nbsp; &nbsp;
 <img src="https://miro.medium.com/max/4000/1*b_al7C5p26tbZG4sy-CWqw.png" width="45" height="45"/>&nbsp; &nbsp;
