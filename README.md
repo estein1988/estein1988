@@ -1,7 +1,7 @@
 <h2> 💻 👏 ⬇️    Welcome to Elliott's GitHub!   ⬇️ 👏 💻 </h2>
-I'm a full-stack software engineer living in the Denver area since 2010. I have 10+ year's experience in land management, where I oversaw mineral rights throughout the United States, Canada and Gulf of Mexico. I enjoy bringing these past skillsets through code by applying my work to data-driven projects. When I'm not trying to figure out how to make things work on my computer you can find me in the mountains with my Australian Shepard 🦮 🗻, growing vegatables in my garden 🌶 🥦, or managing one of my many fantasy football teams 🏈. 
+I'm a full-stack software engineer living in the Denver area since 2010. I have 10+ year's experience in land & resource management, where I oversaw mineral rights throughout the United States, Canada and Gulf of Mexico. I enjoy bringing these past skillsets to code by applying my work with data-driven projects. When I'm not having fun on my computer you can find me in the mountains with my Australian Shepard 🦮 🗻, growing vegatables in my garden 🌶 🥦, or managing one of my many fantasy football teams 🏈. 
 
-<h3> A brief intro on some of my work: </h3>
+<h3> A brief intro to some of my work: </h3>
 
 **710 Home Split** - [Hosted Site](https://home-split-7-10.firebaseapp.com/login) | [Frontend](https://github.com/estein1988/710-home-fe) | [Backend](https://github.com/estein1988/710_home_split_be) | [Demo](https://www.youtube.com/watch?v=ijFS5tFKtY4)
 
